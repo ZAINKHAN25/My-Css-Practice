@@ -67,7 +67,7 @@ body{
 .footer img{
     width: 5%;
     margin: 10px 10px;
-    transition: all 2s;
+    transition: all 0.9s;
 }
 
 .footer img:hover{
